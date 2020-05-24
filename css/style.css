@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(13, 14, 13);
+    background-color: darkgreen;
     margin-left: 100px;
     margin-right: 200px;
 }
@@ -20,12 +20,13 @@ h2{
 p{
     font-size: 20px;
 }
+
 .img_icone{
-    width: 20px;
+    width: 200px;
 }
 .img_padrao{
-    width: 50px;
+    width: 300px;
     margin-top: 1px;
     margin-bottom: 1px;
-    size: 100px;
+    size: 300px;
 }
